@@ -1,0 +1,13 @@
+BODY { background-color: white }
+H1   { background-color: #000080 }
+
+BODY { background-image: url(/images/picture.gif) }
+P { background-image: url(http://www.url.com/bg1.gif) }
+
+BODY { background: white url(file.gif);
+background-repeat: repeat-x }
+
+BODY       { background: white url(http://www.url.com/bg1.gif) }
+BLOCKQUOTE { background: #000000 }
+P          { background: url(image/file1.gif) #000000 fixed }
+TABLE      { background: #000000 url(file2.gif) no-repeat top center }
